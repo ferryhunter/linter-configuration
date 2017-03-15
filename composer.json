@@ -1,0 +1,15 @@
+{
+    "name": "tripsta/linter-configuration",
+    "description": "configuration files for linters",
+    "authors" : [
+        {
+            "name": "Developers",
+            "email": "developers@tripsta.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.9"
+    },
+    "require-dev": {
+    }
+}
