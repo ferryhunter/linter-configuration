@@ -1,0 +1,1 @@
+phpcs --standard=%CD%\Standards\TP24\ruleset.xml %1
