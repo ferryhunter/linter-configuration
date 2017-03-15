@@ -71,7 +71,9 @@ class TP24_Sniffs_NamingConventions_ValidFunctionNameSniff extends PHP_CodeSniff
 		'_doRequest', '__doRequest' // customization for TP24_Soap_Client_Adapter_Http extending SoapClient
 		);
 	private $_allowProtected = array(
-		'init', 'preInsert', 'postInsert', 'preUpdate', 'postUpdate', 'preSave', 'postSave'  // customization for TP24_Db_Mongo_Document_AbstractTest extending Shanty_Mongo_Document
+		'init', 'preInsert', 'postInsert', 'preUpdate', 'postUpdate', 'preSave', 'postSave',  // customization for TP24_Db_Mongo_Document_AbstractTest extending Shanty_Mongo_Document
+    //Laravel\Lumen\Console\Kernel
+    'schedule'
 		);
 
     /**
