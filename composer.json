@@ -1,10 +1,10 @@
 {
-    "name": "ferryhunter/linter-configuration",
+    "name": "tripsta/linter-configuration",
     "description": "configuration files for linters",
     "authors" : [
         {
             "name": "Developers",
-            "email": "developers@ferryscanner.com"
+            "email": "developers@tripsta.com"
         }
     ],
     "require": {
